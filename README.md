@@ -18,7 +18,7 @@ rotating mechanical systems with sufficient accuracy.
 
 Dataset: The dataset used for this project was created by our professor of Amrita school of Engineering, Coimbatore. The apparatus used for collecting the vibration signals from faults / non-faulty bearing and gear is in the college.
 
-Algorithm: Regularized Linear Regression with different kernels
+Algorithm: Regularized Least Squares
 
 ### Paper to Cite
 
