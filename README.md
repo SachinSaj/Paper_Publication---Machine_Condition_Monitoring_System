@@ -1,4 +1,4 @@
-# Machine-Condition-Monitoring-System_Paper
+# Paper Publication: Machine Condition Monitoring System
 
 ### Abstract
 
@@ -15,6 +15,10 @@ faulty bearing as well as gear conditions of the machine. The evaluations are pe
 kernel functions and the average accuracy reported is 98% for bearing and gear data. The various
 experiments performed claims that the proposed system can be used for real-time fault diagnosis in
 rotating mechanical systems with sufficient accuracy.
+
+Dataset: The dataset used for this project was created by our professor of Amrita school of Engineering, Coimbatore. The apparatus used for collecting the vibration signals from faults / non-faulty bearing and gear is in the college.
+
+Algorithm: Regularized Linear Regression with different kernels
 
 ### Paper to Cite
 
